@@ -8,13 +8,13 @@ main:
 docs:
   - title: 발로란트
     children:
-      - title: "Quick-Start Guide"
+      - title: "피커스 어드밴티지"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "앵글 어드밴티지"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "자금 운영"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "맵"
         url: /docs/upgrading/
 
   - title: 오버워치
