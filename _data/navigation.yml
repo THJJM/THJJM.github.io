@@ -9,7 +9,7 @@ docs:
   - title: 발로란트
     children:
       - title: "피커스 어드밴티지"
-        url: /docs/quick-start-guide/
+        url: https://thjjm.github.io/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8/first/
       - title: "앵글 어드밴티지"
         url: /docs/structure/
       - title: "자금 운영"
