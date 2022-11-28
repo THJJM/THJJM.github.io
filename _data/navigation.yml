@@ -14,20 +14,20 @@ docs:
         url: /docs/structure/
       - title: "자금 운영"
         url: /docs/installation/
-      - title: "맵"
+      - title: "기본 최적화"
         url: /docs/upgrading/
 
   - title: 오버워치
     children:
-      - title: "Configuration"
+      - title: "기본 최적화"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "영웅별 공략 모음"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "오버워치 에임법"
         url: /docs/ui-text/
-      - title: "Authors"
+      - title: "선수별 셋팅"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "자잘한 꿀팁"
         url: /docs/layouts/
 
   - title: 리그오브레전드
