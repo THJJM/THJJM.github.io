@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Category"
+  - title: "발로란트"
     url: /categories/
-  - title: "Tag"
+  - title: "오버워치"
     url: /tags/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
