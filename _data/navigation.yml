@@ -8,10 +8,12 @@ main:
 docs:
   - title: 발로란트
     children:
-      - title: "패치노트"
-        url: https://www.leagueoflegends.com/ko-kr/news/tags/patch-notes/
       - title: "피커스 어드밴티지"
+<<<<<<< HEAD
         url: https://thjjm.github.io/발로란트/pickers/
+=======
+        url: https://thjjm.github.io/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8/first/
+>>>>>>> parent of 8fef10a8 (md파일 추가)
       - title: "앵글 어드밴티지"
         url: https://thjjm.github.io/val/angle/
       - title: "자금 운영"
