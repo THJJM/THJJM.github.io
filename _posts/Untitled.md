@@ -1,0 +1,1 @@
+![faker](C:\Users\cftxs\Desktop\SOFTWEB\thjjm.github.io\images\Untitled\faker.jpg)
