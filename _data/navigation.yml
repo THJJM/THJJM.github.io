@@ -4,6 +4,46 @@ main:
     url: /categories/
   - title: "오버워치"
     url: /tags/    
+
+docs:
+  - title: 발로란트
+    children:
+      - title: "피커스 어드밴티지"
+        url: /docs/quick-start-guide/
+      - title: "앵글 어드밴티지"
+        url: /docs/structure/
+      - title: "자금 운영"
+        url: /docs/installation/
+      - title: "기본 최적화"
+        url: /docs/upgrading/
+
+  - title: 오버워치
+    children:
+      - title: "기본 최적화"
+        url: /docs/configuration/
+      - title: "영웅별 공략 모음"
+        url: /docs/navigation/
+      - title: "오버워치 에임법"
+        url: /docs/ui-text/
+      - title: "선수별 셋팅"
+        url: /docs/authors/
+      - title: "자잘한 꿀팁"
+        url: /docs/layouts/
+
+  - title: 리그오브레전드
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
