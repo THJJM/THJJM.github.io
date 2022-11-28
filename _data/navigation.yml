@@ -8,12 +8,12 @@ main:
 docs:
   - title: 발로란트
     children:
+      - title: "패치노트"
+        url: https://playvalorant.com/ko-kr/news/
+        title: "대회 정보"
+        url: https://liquipedia.net/valorant/Main_Page
       - title: "피커스 어드밴티지"
-<<<<<<< HEAD
         url: https://thjjm.github.io/발로란트/pickers/
-=======
-        url: https://thjjm.github.io/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8/first/
->>>>>>> parent of 8fef10a8 (md파일 추가)
       - title: "앵글 어드밴티지"
         url: https://thjjm.github.io/val/angle/
       - title: "자금 운영"
@@ -23,6 +23,8 @@ docs:
 
   - title: 오버워치
     children:
+      - title: "패치노트"
+        url: https://overwatch.blizzard.com/ko-kr/news/patch-notes/
       - title: "기본 최적화"
         url: /docs/configuration/
       - title: "영웅별 공략 모음"
@@ -30,14 +32,14 @@ docs:
       - title: "오버워치 에임법"
         url: /docs/ui-text/
       - title: "선수별 셋팅"
-        url: /docs/authors/
+        url: https://prosettings.net/overwatch-pro-settings-gear-list/
       - title: "자잘한 꿀팁"
         url: /docs/layouts/
 
   - title: 리그오브레전드
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
+      - title: "패치노트"
+        url: https://www.leagueoflegends.com/ko-kr/news/tags/patch-notes/
       - title: "Working with Pages"
         url: /docs/pages/
       - title: "Working with Collections"
