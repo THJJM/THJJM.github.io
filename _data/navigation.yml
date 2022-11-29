@@ -18,10 +18,8 @@ docs:
         url: https://thjjm.github.io/fps/picker/
       - title: "앵글 어드밴티지"
         url: https://thjjm.github.io/fps/angle/
-      - title: "자금 운영"
-        url: /docs/installation/
       - title: "기본 최적화"
-        url: /docs/upgrading/
+        url: https://thjjm.github.io/fps/vcomputersetting/
       - title: "선수 세팅값"
         url: https://thjjm.github.io/fps/vsetting/
 
