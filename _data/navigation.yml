@@ -30,9 +30,9 @@ docs:
       - title: "패치노트"
         url: https://overwatch.blizzard.com/ko-kr/news/patch-notes/
       - title: "대회 일정"
-        url: /docs/configuration/
+        url: https://liquipedia.net/overwatch/Main_Page
       - title: "영웅별 공략 모음"
-        url: /docs/navigation/
+        url: https://overwatch.inven.co.kr/dataninfo/manual/
       - title: "오버워치 에임법"
         url: /docs/ui-text/
       - title: "프로 세팅 및 장비"
