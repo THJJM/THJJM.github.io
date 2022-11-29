@@ -12,7 +12,7 @@ docs:
     children:
       - title: "패치노트"
         url: https://playvalorant.com/ko-kr/news/
-      - title: "대회 정보"
+      - title: "대회 일정"
         url: https://liquipedia.net/valorant/Main_Page
       - title: "피커스 어드밴티지"
         url: https://thjjm.github.io/발로란트/pickers/
@@ -29,7 +29,7 @@ docs:
     children:
       - title: "패치노트"
         url: https://overwatch.blizzard.com/ko-kr/news/patch-notes/
-      - title: "기본 최적화"
+      - title: "대회 일정"
         url: /docs/configuration/
       - title: "영웅별 공략 모음"
         url: /docs/navigation/
@@ -44,16 +44,6 @@ docs:
     children:
       - title: "패치노트"
         url: https://www.leagueoflegends.com/ko-kr/news/tags/patch-notes/
-<<<<<<< HEAD
-      - title: ""
-        url: /docs/pages/
-      - title: ""
-        url: /docs/collections/
-      - title: ""
-        url: /docs/helpers/
-      - title: "프로 세팅"
-        url: /docs/utility-classes/
-=======
       - title: "대회 일정"
         url: https://liquipedia.net/leagueoflegends/Main_Page
       - title: "대회 소식"
@@ -62,7 +52,8 @@ docs:
         url: https://lol.inven.co.kr/dataninfo/champion/manualTool.php
       - title: "프로 세팅 및 장비"
         url: https://prosettings.net/lol-pro-settings-gear-list/
->>>>>>> ddfe197169846592c90efd0e6bab93d84e75b4c0
+
+
 
 
   # - title: "About"
