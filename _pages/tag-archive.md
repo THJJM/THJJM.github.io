@@ -1,5 +1,5 @@
 ---
-title: "Tag"
+title: "MOBA"
 layout: tag
 permalink: /tags/
 author_profile: true

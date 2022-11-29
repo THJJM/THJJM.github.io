@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "FPS"
+  - title: "장르"
     url: /categories/
   - title: "MOBA"
     url: /tags/    
@@ -23,7 +23,7 @@ docs:
       - title: "기본 최적화"
         url: /docs/upgrading/
       - title: "선수 세팅값"
-        url: https://thjjm.github.io/발로란트/setting/
+        url: https://thjjm.github.io/발로란트/vsetting/
 
   - title: 오버워치
     children:
