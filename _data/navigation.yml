@@ -2,8 +2,8 @@
 main:
   - title: "장르"
     url: /categories/
-  - title: "MOBA"
-    url: /tags/    
+  - title: "감도 찾기"
+    url: /https://jscalc.io/embed/vqOrqXRpMgmwb8tV/    
   - title: "Search"
     url: /search/
 
