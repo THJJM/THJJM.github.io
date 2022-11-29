@@ -6,7 +6,7 @@ main:
     url: /search/
 
 docs:
-  - title: 발로란트
+  - title:  발로란트
     children:
       - title: "패치노트"
         url: https://playvalorant.com/ko-kr/news/
