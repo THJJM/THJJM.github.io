@@ -15,15 +15,15 @@ docs:
       - title: "대회 일정"
         url: https://liquipedia.net/valorant/Main_Page
       - title: "피커스 어드밴티지"
-        url: https://thjjm.github.io/발로란트/pickers/
+        url: https://thjjm.github.io/fps/pickers/
       - title: "앵글 어드밴티지"
-        url: https://thjjm.github.io/val/angle/
+        url: https://thjjm.github.io/fps/angle/
       - title: "자금 운영"
         url: /docs/installation/
       - title: "기본 최적화"
         url: /docs/upgrading/
       - title: "선수 세팅값"
-        url: https://thjjm.github.io/발로란트/vsetting/
+        url: https://thjjm.github.io/fps/vsetting/
 
   - title: 오버워치
     children:
