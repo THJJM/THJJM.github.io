@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "발로란트"
+  - title: "FPS"
     url: /categories/
-  - title: "오버워치"
+  - title: "MOBA"
     url: /tags/    
+  - title: "Search"
+    url: /search/
 
 docs:
   - title: 발로란트
@@ -20,6 +22,8 @@ docs:
         url: /docs/installation/
       - title: "기본 최적화"
         url: /docs/upgrading/
+      - title: "선수 세팅값"
+        url: https://thjjm.github.io/발로란트/setting/
 
   - title: 오버워치
     children:
@@ -40,13 +44,13 @@ docs:
     children:
       - title: "패치노트"
         url: https://www.leagueoflegends.com/ko-kr/news/tags/patch-notes/
-      - title: "Working with Pages"
+      - title: ""
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: ""
         url: /docs/collections/
-      - title: "Helpers"
+      - title: ""
         url: /docs/helpers/
-      - title: "Utility Classes"
+      - title: "프로 세팅"
         url: /docs/utility-classes/
 
 
