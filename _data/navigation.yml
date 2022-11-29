@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "장르"
-    url: /categories/
-  - title: "MOBA"
-    url: /tags/    
+    url: /categories/   
   - title: "Search"
     url: /search/
 
@@ -15,24 +13,25 @@ docs:
       - title: "대회 일정"
         url: https://liquipedia.net/valorant/Main_Page
       - title: "피커스 어드밴티지"
-        url: https://thjjm.github.io/발로란트/pickers/
+        url: https://thjjm.github.io/fps/pickers/
       - title: "앵글 어드밴티지"
-        url: https://thjjm.github.io/val/angle/
-      - title: "자금 운영"
-        url: /docs/installation/
+        url: https://thjjm.github.io/fps/angle/
       - title: "기본 최적화"
-        url: /docs/upgrading/
-      - title: "선수 세팅값"
-        url: https://thjjm.github.io/발로란트/vsetting/
+        url: https://thjjm.github.io/fps/vcomputersetting/
+      - title: "선수 세팅 및 장비"
+        url: https://thjjm.github.io/fps/vsetting/
+      - title: "마우스감도 찾기"
+        url: https://jscalc.io/embed/vqOrqXRpMgmwb8tV
+
 
   - title: 오버워치
     children:
       - title: "패치노트"
         url: https://overwatch.blizzard.com/ko-kr/news/patch-notes/
       - title: "대회 일정"
-        url: /docs/configuration/
+        url: https://liquipedia.net/overwatch/Main_Page
       - title: "영웅별 공략 모음"
-        url: /docs/navigation/
+        url: https://overwatch.inven.co.kr/dataninfo/manual/
       - title: "오버워치 에임법"
         url: /docs/ui-text/
       - title: "프로 세팅 및 장비"
