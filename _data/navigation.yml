@@ -35,7 +35,7 @@ docs:
         url: /docs/navigation/
       - title: "오버워치 에임법"
         url: /docs/ui-text/
-      - title: "선수별 셋팅"
+      - title: "프로 세팅 및 장비"
         url: https://prosettings.net/overwatch-pro-settings-gear-list/
       - title: "자잘한 꿀팁"
         url: /docs/layouts/
@@ -44,6 +44,7 @@ docs:
     children:
       - title: "패치노트"
         url: https://www.leagueoflegends.com/ko-kr/news/tags/patch-notes/
+<<<<<<< HEAD
       - title: ""
         url: /docs/pages/
       - title: ""
@@ -52,6 +53,16 @@ docs:
         url: /docs/helpers/
       - title: "프로 세팅"
         url: /docs/utility-classes/
+=======
+      - title: "대회 일정"
+        url: https://liquipedia.net/leagueoflegends/Main_Page
+      - title: "대회 소식"
+        url: https://www.leagueoflegends.com/ko-kr/news/esports/
+      - title: "공략"
+        url: https://lol.inven.co.kr/dataninfo/champion/manualTool.php
+      - title: "프로 세팅 및 장비"
+        url: https://prosettings.net/lol-pro-settings-gear-list/
+>>>>>>> ddfe197169846592c90efd0e6bab93d84e75b4c0
 
 
   # - title: "About"

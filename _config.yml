@@ -104,11 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "소프트웨어 프로젝트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "다양한 게임꿀팁 여기에!"
-  location         : "South Korea"
-  email            : "xhql1257@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
